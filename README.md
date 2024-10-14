@@ -1,2 +1,2 @@
 # Machine-learning-projects
-This repository contains all the publicly posted ML python codes
+This repository contains all the publically posted ML python codes
